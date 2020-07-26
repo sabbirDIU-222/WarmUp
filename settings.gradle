@@ -1,0 +1,2 @@
+rootProject.name='WarmUp'
+include ':app'

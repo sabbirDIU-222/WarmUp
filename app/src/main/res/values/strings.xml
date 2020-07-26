@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">WarmUp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="first">
+        \nCode	       Course Title	        Credit Hours
+        \n\nCSE112	Computer Fundamentals	3
+        \n\nMAT111	Mathematics-I: Differential and Integral Calculus	3
+        \n\nENG113	Basic Functional English and English Spoken	3
+        \n\nPHY113	Physics-I: Mechanics, Heat &amp; Thermodynamics,Waves &amp; Oscillation, Optics	3
+ 	                      \n\nTotal	12
+
+
+    </string>
+    <string name="second">
+
+        \n\nMAT121	Mathematics -II: Complex Variable, inear Algebra and Coordinate Geometry	3
+        \n\nCSE122	Programming and Problem Solving	3
+        \n\nCSE123	Problem Solving Lab	1
+        \n\nPHY123	Physics-II: Electricity, Magnetism and Modern Physics	3
+        \n\nPHY124	Physics-II Lab	1
+        \n\nENG123	Writing and Comprehension	3
+ 	    \n\nTotal	14
+
+
+
+    </string>
+    <string name="third">
+
+
+
+
+     \n\nCourse Code	Course Title	Credit Hours
+\n\nCSE131	   Discrete   Mathematics      	3
+\n\nCSE132	    Electrical    Circuits	    3
+\n\nCSE133	Electrical Circuits Lab	1
+\n\nCSE134	Data Structure	3
+\n\nCSE135	Data Structure Lab	1
+\n\nMAT131	Ordinary and Partial Differential Equations	3
+ 	\n\nTotal	14
+
+
+
+
+    </string>
+    <string name="fourth">
+
+
+
+        \n\nMAT211	Engineering Mathematics	3
+\n\nCSE212	Digital Electronics	3
+\n\nCSE213	Digital Electronics Lab	1
+\n\nCSE214	Object Oriented Programming	3
+\n\nCSE215	Object Oriented Programming Lab	1
+\n\nED201	G Bangladesh Studie	3
+ 	\n\nTotal	14
+
+
+
+    </string>
+    <string name="fifth">
+
+
+
+      \n\nCSE221	Algorithms	3
+\n\nCSE222	Algorithms Lab	1
+\n\nSTA133	Statistics and Probability	3
+\n\nCSE224	Electronic Devices and Circuits	3
+\n\nCSE225	Electronic Devices and Circuits Lab	1
+ 	\n\nTotal	11
+    </string>
+    <string name="six">
+
+
+
+     \n\nCSE231	Microprocessor and Assembly Language	3
+\n\nCSE232	Microprocessor and Assembly Language Lab	1
+\n\nCSE233	Data Communication	3
+\n\nCSE234	Numerical Methods	3
+\n\nCSE235	Introduction to Bio-Informatics	3
+ 	\n\nTotal	13
+
+
+    </string>
+    <string name="seven">
+
+
+
+
+     \n\nCSE311	Database Management System	3
+\n\nCSE312	Database Management System Lab	1
+\n\nCSE313	Computer Networks	3
+\n\nCSE314	Computer Networks Lab	1
+\n\nECO314	Economics	3
+ 	\n\nTotal	11
+
+
+    </string>
+    <string name="eaight">
+
+       \n\nCSE321	System Analysis and Design	3
+\n\nCSE322	Computer Architecture and Organization	3
+\n\nCSE323	Operating Systems	3
+\n\nCSE324	Operating Systems Lab	1
+\n\nGED321	Art of Effective Living	3
+ 	\n\nTotal	11
+
+
+    </string>
+    <string name="nine">
+
+        \n\nCSE331	Complier Design	3
+\n\nCSE332	Complier Design Lab	1
+\n\nCSE333	Software Engineering	3
+\n\nCSE334	Wireless Programming	3
+\n\nACT301	Financial and Managerial Accounting 2	2
+ 	\n\nTotal	12
+
+
+
+    </string>
+    <string name="ten">
+
+       \n\nCSE412	Artificial Intelligence	3
+\n\nCSE413	Artificial Intelligence Lab	1
+\n\nCSE414	Simulation and Modelling	3
+\n\nCSE415	Simulation and Modelling Lab	1
+\n\nCSE417	Web Engineering	3
+\n\nCSE418	Web Engineering Lab	1
+ 	\n\nTotal	12
+
+
+
+    </string>
+    <string name="eleven">
+
+      \n\nCSE421	Computer Graphics	3
+    \n\nCSE422	Computer Graphics Lab	1
+    \n\nCSE423	Embedded Systems	3
+    \n\nCSE XXX	Elective I	3
+    \n\nCSE499	Project / Internship (Phase I, to be completed in Level-4 Term-3	3
+    \n\nTotal	13
+    </string>
+
+
+    <string name="twelve">
+
+\n\nCSE498	Social and Professional Issues in Computing	3
+\n\nCSE XXX	Elective II	3
+\n\nCSE499	Project / Internship (Phase II, continued from Level 4 Term 2)	3
+ 	\n\nTotal	9
+
+
+    </string>
+
+
+</resources>
